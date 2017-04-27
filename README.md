@@ -9,3 +9,5 @@ If you don't have webpack installed globally do so by running `npm install webpa
 
 
 ## [DEMO](https://kurtiev.github.io/pixijs/)
+
+[![View demo app](screenshot.png)](https://kurtiev.github.io/pixijs/)
