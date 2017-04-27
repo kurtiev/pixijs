@@ -1,0 +1,16 @@
+@import 'reset.scss';
+
+body {
+  padding-top: 50px;
+  background-color: #cccccc;
+}
+
+.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.width-50-percent  {
+  width: 50%;
+  display: inline-block;
+}
